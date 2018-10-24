@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 '''
-windows 获取网络注册表
+获取win连接的网络及网络所在的gps
 '''
 import os
 import optparse
